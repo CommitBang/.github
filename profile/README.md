@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/title.png" alt="SnapFig"/>
+<img src="../docs/assets/title.png" alt="SnapFig"/>
 
 [![Platform](https://img.shields.io/badge/Platform-Flutter%2C%20Python-blue)](https://flutter.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](docs/license.md)
@@ -17,7 +17,7 @@
 
 | **OCR 및 Figure 매핑** | **피규어 설명** |
 |:---------------------:|:--------------:|
-| <img src="docs/assets/FigureLink.PNG" width="300"/><br>OCR로 도표·참조를 인식하고, 텍스트와 그림을 자동 연결 | <img src="docs/assets/AskFigure.PNG" width="300"/><br>문서 내 피규어에 대해 AI에게 바로 질문 가능 |
+| <img src="../docs/assets/FigureLink.PNG" width="300"/><br>OCR로 도표·참조를 인식하고, 텍스트와 그림을 자동 연결 | <img src="../docs/assets/AskFigure.PNG" width="300"/><br>문서 내 피규어에 대해 AI에게 바로 질문 가능 |
 
 https://github.com/user-attachments/assets/0152dfda-024d-4f73-8eea-2a915d1c6102
 
@@ -66,7 +66,7 @@ python main.py
 
 ## 폴더 구조
 
-자세한 설명은 [docs/folder_structure.md](docs/folder_structure.md) 참고
+자세한 설명은 [docs/folder_structure.md](../docs/folder_structure.md) 참고
 
 ```
 SnapFig/
@@ -83,16 +83,16 @@ SnapFig/
 
 ## 문서
 
-- [폴더 구조](docs/folder_structure.md)
-- [기여 가이드](docs/contributing.md)
-- [라이선스 안내](docs/license.md)
+- [폴더 구조](../docs/folder_structure.md)
+- [기여 가이드](../docs/contributing.md)
+- [라이선스 안내](../docs/license.md)
 
 ---
 
 ## 기여
 
 SnapFig는 오픈소스 프로젝트로, 누구나 기여할 수 있습니다.  
-자세한 안내는 [docs/contributing.md](docs/contributing.md)를 참고하세요.
+자세한 안내는 [docs/contributing.md](../docs/contributing.md)를 참고하세요.
 
 ---
 
@@ -103,7 +103,7 @@ SnapFig는 오픈소스 프로젝트로, 누구나 기여할 수 있습니다.
 - **backend/gateway_backend**: MIT License (README 명시)
 - **backend/ai_task_server**: 별도 명시 없음
 
-자세한 내용은 [docs/license.md](docs/license.md) 참고
+자세한 내용은 [docs/license.md](../docs/license.md) 참고
 
 ---
 
