@@ -19,7 +19,7 @@
 |:---------------------:|:--------------:|
 | <img src="docs/assets/FigureLink.PNG" width="300"/><br>OCR로 도표·참조를 인식하고, 텍스트와 그림을 자동 연결 | <img src="docs/assets/AskFigure.PNG" width="300"/><br>문서 내 피규어에 대해 AI에게 바로 질문 가능 |
 
-<video src="docs/assets/demo.MP4" controls width="600"></video>
+https://github.com/user-attachments/assets/0152dfda-024d-4f73-8eea-2a915d1c6102
 
 ---
 
