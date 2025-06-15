@@ -1,0 +1,9 @@
+[submodule "reference-mapper"]
+	path = reference-mapper
+	url = https://github.com/CommitBang/PDF-Reference-Mapper.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/CommitBang/Snapfig-Frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/CommitBang/Snapfig-Backend.git

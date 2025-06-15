@@ -14,10 +14,10 @@
 | frontend/               | MIT License        | [frontend/LICENSE](../frontend/LICENSE) |
 | backend/gateway_backend/| MIT License        | [gateway_backend/README.md](../backend/gateway_backend/README.md) |
 | backend/ai_task_server/ | 명시 없음          | LICENSE 파일 및 명시 없음      |
-| reference-mapper/       | Apache License 2.0 | [reference-mapper/LICENSE](../reference-mapper/LICENSE) |
+| reference-mapper/       | MIT License | [reference-mapper/LICENSE](../reference-mapper/LICENSE) |
 
 - **frontend**: MIT 라이선스 (LICENSE 파일 참고)
-- **reference-mapper**: Apache License 2.0 (LICENSE 파일 참고)
+- **reference-mapper**: MIT License (LICENSE 파일 참고)
 - **backend/gateway_backend**: MIT 라이선스 (README.md에 명시, LICENSE 파일 없음)
 - **backend/ai_task_server**: 별도 라이선스 명시 없음 (재사용 전 메인테이너 문의 필요)
 

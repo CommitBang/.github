@@ -3,7 +3,7 @@
 <img src="docs/assets/title.png" alt="SnapFig"/>
 
 [![Platform](https://img.shields.io/badge/Platform-Flutter%2C%20Python-blue)](https://flutter.dev)
-[![License](https://img.shields.io/badge/License-MIT%2FApache--2.0-green)](docs/license.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](docs/license.md)
 
 ***Snapfig*: PDF기반 학습 지원을 위한 플랫폼**
 
@@ -13,16 +13,17 @@
 
 ---
 
-## ✨ 주요 특징
+## 주요 특징
 
-- **AI 기반 문서 분석**: PDF, 이미지 등에서 텍스트·도표·주석 등 다양한 정보를 자동 추출
-- **OCR 및 Figure 매핑**: OCR로 도표·참조를 인식하고, 텍스트와 그림을 자동 연결
-- **실시간 질의응답**: 문서 내 특정 영역에 대해 AI에게 바로 질문 가능
-- **모바일 앱 지원**: Flutter 기반 iOS/Android 앱 제공
+| **OCR 및 Figure 매핑** | **피규어 설명** |
+|:---------------------:|:--------------:|
+| <img src="docs/assets/FigureLink.PNG" width="300"/><br>OCR로 도표·참조를 인식하고, 텍스트와 그림을 자동 연결 | <img src="docs/assets/AskFigure.PNG" width="300"/><br>문서 내 피규어에 대해 AI에게 바로 질문 가능 |
+
+<video src="docs/assets/demo.MP4"></video>
 
 ---
 
-## 🚀 빠른 시작
+## 빠른 시작
 
 ```bash
 # 저장소 클론
@@ -54,16 +55,16 @@ python main.py
 
 ---
 
-## 🖼️ 활용 예시
+## 활용 예시
 
 - 전공서적, 논문 등에서 그림과 설명을 빠르게 연결해 학습
 - 문서 내 도표·참조 자동 매핑 및 시각화
-- AI 기반 요약, 질의응답으로 문서 이해도 향상
+- AI 기반 질의응답으로 문서 이해도 향상
 - 모바일 환경에서 실시간 문서 분석 및 학습 지원
 
 ---
 
-## 📁 폴더 구조
+## 폴더 구조
 
 자세한 설명은 [docs/folder_structure.md](docs/folder_structure.md) 참고
 
@@ -80,7 +81,7 @@ SnapFig/
 
 ---
 
-## 📚 문서
+## 문서
 
 - [폴더 구조](docs/folder_structure.md)
 - [기여 가이드](docs/contributing.md)
@@ -88,17 +89,17 @@ SnapFig/
 
 ---
 
-## 🤝 기여
+## 기여
 
 SnapFig는 오픈소스 프로젝트로, 누구나 기여할 수 있습니다.  
 자세한 안내는 [docs/contributing.md](docs/contributing.md)를 참고하세요.
 
 ---
 
-## 📝 라이선스
+## 라이선스
 
 - **frontend**: MIT License
-- **reference-mapper**: Apache License 2.0
+- **reference-mapper**: MIT License
 - **backend/gateway_backend**: MIT License (README 명시)
 - **backend/ai_task_server**: 별도 명시 없음
 
